@@ -73,15 +73,6 @@ Financial AI application with analytics and parsing workflows.
 </p>
 
 ---
-
-# Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cntcaak&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # Connect With Me
 
 <p align="left">
