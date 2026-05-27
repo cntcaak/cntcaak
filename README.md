@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+Create a premium, elegant, modern GitHub profile README for an Applied AI Engineer named Akber Ali Khan.<br><br>The tone should be:<br><br>* professional<br>* minimal<br>* intelligent<br>* clean<br>* recruiter-friendly<br>* visually premium<br>* not cringe<br>* not overly flashy<br>* realistic and authentic<br><br>Do NOT add fake skills, fake achievements, fake companies, fake metrics, or fake technologies.<br><br>Focus on:<br><br>* AI engineering<br>* machine learning<br>* applied AI systems<br>* computer vision<br>* engineering optimization<br>* intelligent systems<br>* software engineering growth<br>* open-source learning<br><br>Include:<br><br>* smooth section separators<br>* modern badges<br>* subtle animations/GIFs only if elegant<br>* clean markdown hierarchy<br>* concise wording<br>* dark-theme aesthetic<br>* balanced spacing<br>* responsive visual layout<br><br>Personal Information:<br>Name: Akber Ali Khan<br><br>Role:<br>Applied AI Engineer<br><br>Background:<br>Mechanical Engineering graduate transitioning into AI Engineering and Machine Learning.<br><br>Current Focus:<br><br>* AI Engineering<br>* Machine Learning<br>* Computer Vision<br>* Generative Design<br>* FastAPI<br>* TensorFlow<br>* Scikit-Learn<br>* Streamlit<br>* Next.js<br>* Open Source<br><br>Projects:<br><br>1. Neuro-TopOpt<br><br>   * AI-driven topology optimization platform<br>   * TensorFlow U-Net + FEA<br>   * Real-time generative design<br><br>2. FarmFin Assist<br><br>   * AI-powered agricultural finance platform<br>   * multilingual support<br>   * EMI + loan analysis<br><br>3. Portfolio Website<br><br>   * premium animated portfolio<br>   * Next.js + Framer Motion<br>   * deployed on Vercel<br><br>4. PennyWise AI<br><br>   * financial AI application<br>   * analytics + parsing workflows<br><br>Experience:<br><br>* Subject Matter Expert at Amazon<br>* Google Student Ambassador<br>* GSSoC Ambassador<br><br>Tech Stack:<br>Python, TensorFlow, Scikit-Learn, FastAPI, Streamlit, Next.js, TypeScript, TailwindCSS, Git/GitHub, SQL, OpenCV<br><br>Links:<br>Portfolio: https://aak.is-a.dev<br>GitHub: https://github.com/cntcaak<br>LinkedIn: https://linkedin.com/in/cntcaak<br><br>Design Preferences:<br><br>* premium dark aesthetic<br>* minimal but impressive<br>* clean typography<br>* avoid overcrowding<br>* avoid rainbow gradients everywhere<br>* no meme style<br>* no fake hacker aesthetic<br>* no exaggerated “AI wizard/genius” wording<br>* no anime themes<br>* no unnecessary stats overload<br><br>Add:<br><br>* concise About Me section<br>* Tech Stack section<br>* Featured Projects section<br>* GitHub stats section<br>* Contribution graph section<br>* Contact section<br><br>The final README should feel like:<br>“a serious early-career AI engineer building real-world systems with strong design sense.”<br>
 
-<!--
-**cntcaak/cntcaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cntcaak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cntc.aak@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=cntcaak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=cntcaak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=cntcaak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cntcaak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cntcaak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=cntcaak&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
