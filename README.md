@@ -1,24 +1,101 @@
-# 💫 About Me:
-Create a premium, elegant, modern GitHub profile README for an Applied AI Engineer named Akber Ali Khan.<br><br>The tone should be:<br><br>* professional<br>* minimal<br>* intelligent<br>* clean<br>* recruiter-friendly<br>* visually premium<br>* not cringe<br>* not overly flashy<br>* realistic and authentic<br><br>Do NOT add fake skills, fake achievements, fake companies, fake metrics, or fake technologies.<br><br>Focus on:<br><br>* AI engineering<br>* machine learning<br>* applied AI systems<br>* computer vision<br>* engineering optimization<br>* intelligent systems<br>* software engineering growth<br>* open-source learning<br><br>Include:<br><br>* smooth section separators<br>* modern badges<br>* subtle animations/GIFs only if elegant<br>* clean markdown hierarchy<br>* concise wording<br>* dark-theme aesthetic<br>* balanced spacing<br>* responsive visual layout<br><br>Personal Information:<br>Name: Akber Ali Khan<br><br>Role:<br>Applied AI Engineer<br><br>Background:<br>Mechanical Engineering graduate transitioning into AI Engineering and Machine Learning.<br><br>Current Focus:<br><br>* AI Engineering<br>* Machine Learning<br>* Computer Vision<br>* Generative Design<br>* FastAPI<br>* TensorFlow<br>* Scikit-Learn<br>* Streamlit<br>* Next.js<br>* Open Source<br><br>Projects:<br><br>1. Neuro-TopOpt<br><br>   * AI-driven topology optimization platform<br>   * TensorFlow U-Net + FEA<br>   * Real-time generative design<br><br>2. FarmFin Assist<br><br>   * AI-powered agricultural finance platform<br>   * multilingual support<br>   * EMI + loan analysis<br><br>3. Portfolio Website<br><br>   * premium animated portfolio<br>   * Next.js + Framer Motion<br>   * deployed on Vercel<br><br>4. PennyWise AI<br><br>   * financial AI application<br>   * analytics + parsing workflows<br><br>Experience:<br><br>* Subject Matter Expert at Amazon<br>* Google Student Ambassador<br>* GSSoC Ambassador<br><br>Tech Stack:<br>Python, TensorFlow, Scikit-Learn, FastAPI, Streamlit, Next.js, TypeScript, TailwindCSS, Git/GitHub, SQL, OpenCV<br><br>Links:<br>Portfolio: https://aak.is-a.dev<br>GitHub: https://github.com/cntcaak<br>LinkedIn: https://linkedin.com/in/cntcaak<br><br>Design Preferences:<br><br>* premium dark aesthetic<br>* minimal but impressive<br>* clean typography<br>* avoid overcrowding<br>* avoid rainbow gradients everywhere<br>* no meme style<br>* no fake hacker aesthetic<br>* no exaggerated “AI wizard/genius” wording<br>* no anime themes<br>* no unnecessary stats overload<br><br>Add:<br><br>* concise About Me section<br>* Tech Stack section<br>* Featured Projects section<br>* GitHub stats section<br>* Contribution graph section<br>* Contact section<br><br>The final README should feel like:<br>“a serious early-career AI engineer building real-world systems with strong design sense.”<br>
+<h1 align="center">Akber Ali Khan</h1>
 
+<h3 align="center">
+Applied AI Engineer • Machine Learning • Intelligent Systems
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cntcaak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cntc.aak@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=cntcaak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=cntcaak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=cntcaak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cntcaak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cntcaak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision;Engineering+Optimization+with+AI" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=cntcaak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header"/>
+
+# About Me
+
+Applied AI Engineer focused on building intelligent systems at the intersection of:
+
+* Artificial Intelligence
+* Machine Learning
+* Engineering Optimization
+* Computer Vision
+* Real-world AI Applications
+
+Currently transitioning from Mechanical Engineering into AI Engineering through projects, open-source contributions, and production-focused systems.
+
+---
+
+# Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,streamlit,nextjs,typescript,tailwind,git,github,vscode,mysql" />
+
+</p>
+
+---
+
+# Featured Projects
+
+### Neuro-TopOpt
+
+AI-driven topology optimization platform using TensorFlow U-Net + FEA.
+
+### FarmFin Assist
+
+AI-powered agricultural finance assistant with multilingual support.
+
+### Portfolio Website
+
+Premium animated portfolio built with Next.js + Framer Motion.
+
+### PennyWise AI
+
+Financial AI application with analytics and parsing workflows.
+
+---
+
+# Portfolio
+
+🌐 https://aak.is-a.dev/
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cntcaak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cntcaak&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cntcaak&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/cntcaak">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/cntcaak">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
