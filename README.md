@@ -88,7 +88,6 @@ Financial AI application with analytics and parsing workflows.
 </p>
 
 ---
----
 
 ## 🐍 Contribution Snake
 
