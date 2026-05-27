@@ -90,7 +90,7 @@ Financial AI application with analytics and parsing workflows.
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-## Contribution Snake
+# Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cntcaak/cntcaak/output/github-contribution-grid-snake-dark.svg" />
