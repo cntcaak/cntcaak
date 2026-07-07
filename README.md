@@ -5,7 +5,7 @@ Mechanical Engineer • Machine Learning • Intelligent Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision;Engineering+Optimization+with+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Mechanical+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision;Engineering+Optimization+with+AI" />
 </p>
 
 ---
