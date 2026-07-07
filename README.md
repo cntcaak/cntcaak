@@ -1,7 +1,7 @@
 <h1 align="center">Akber Ali Khan</h1>
 
 <h3 align="center">
-Applied AI Engineer • Machine Learning • Intelligent Systems
+Mechanical Engineer • Machine Learning • Intelligent Systems
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ Applied AI Engineer • Machine Learning • Intelligent Systems
 
 # About Me
 
-Applied AI Engineer focused on building intelligent systems at the intersection of:
+Mechanical Engineer focused on building intelligent systems at the intersection of:
 
 * Artificial Intelligence
 * Machine Learning
